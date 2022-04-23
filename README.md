@@ -13,6 +13,11 @@
 <img src="./img/rxyhn-rofi.png" alt="rayhans rofi"> 
 </p>
 
+# AlphaTechnolog's Rofi
+<p align="center">
+<img src="./img/alphatechnolog-rofi.png" alt="alphatechnolog's rofi">
+</p>
+
 ## Installation
 - Add the respected config.rasi file to your ```~/.config/rofi```.
 
