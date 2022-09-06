@@ -1,4 +1,6 @@
-<img align="https://raw.githubusercontent.com/Everblush/assets/main/logo.png"t style="height: 200px; width: 200px; border-radius: 50%" alt="logo"> 
+<div align="center">
+<img align="center" src="https://raw.githubusercontent.com/Everblush/assets/main/logo.png" height="200px" width="200px" alt="logo"> 
+</div> 
 
 <h2 align="center">Everblush Rofi Themes</h2>
 
@@ -18,6 +20,11 @@
 # AlphaTechnolog's Rofi
 <p align="center">
 <img src="./assets/alphatechnolog-rofi.png" alt="alphatechnolog's rofi">
+</p>
+
+# Manas'  Rofi
+<p align="center">
+<img src="./assets/manas-rofi.png" alt="manas' rofi">
 </p>
 
 ## Installation
