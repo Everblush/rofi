@@ -1,3 +1,5 @@
+<img align="https://raw.githubusercontent.com/Everblush/assets/main/logo.png"t style="height: 200px; width: 200px; border-radius: 50%" alt="logo"> 
+
 <h2 align="center">Everblush Rofi Themes</h2>
 
 <p>
@@ -10,12 +12,12 @@
 
 # Rxyhn's Rofi
 <p align="center"> 
-<img src="./img/rxyhn-rofi.png" alt="rayhans rofi"> 
+<img src="./assets/rxyhn-rofi.png" alt="rayhans rofi"> 
 </p>
 
 # AlphaTechnolog's Rofi
 <p align="center">
-<img src="./img/alphatechnolog-rofi.png" alt="alphatechnolog's rofi">
+<img src="./assets/alphatechnolog-rofi.png" alt="alphatechnolog's rofi">
 </p>
 
 ## Installation
